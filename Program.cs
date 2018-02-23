@@ -11,6 +11,7 @@ namespace ClienteFTP
     {
         static void Main(string[] args)
         {
+
             Conexion conexion = new Conexion();
             conexion.cmdBorrar();
         }
