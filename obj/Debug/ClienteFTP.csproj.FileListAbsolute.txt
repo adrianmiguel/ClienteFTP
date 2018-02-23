@@ -1,0 +1,7 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ClienteFTP\ClienteFTP\bin\Debug\ClienteFTP.exe.config
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ClienteFTP\ClienteFTP\bin\Debug\ClienteFTP.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ClienteFTP\ClienteFTP\bin\Debug\ClienteFTP.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ClienteFTP\ClienteFTP\obj\Debug\ClienteFTP.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ClienteFTP\ClienteFTP\obj\Debug\ClienteFTP.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ClienteFTP\ClienteFTP\obj\Debug\ClienteFTP.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\ClienteFTP\ClienteFTP\obj\Debug\ClienteFTP.pdb
